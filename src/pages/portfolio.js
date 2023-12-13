@@ -2,8 +2,8 @@ import * as React from "react"
 import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import Seo from "../components/seo"
 
+//sidans namn blir portfolio efter namnet på javascript-filen
 const SecondPage = () => (
   <Layout>
     <h1>Hi from the second page</h1>
@@ -12,6 +12,6 @@ const SecondPage = () => (
   </Layout>
 )
 
-export const Head = () => <Seo title="Page two" />
+export const Head = () => <title>Portfolio Page</title>
 
 export default SecondPage

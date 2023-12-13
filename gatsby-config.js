@@ -11,7 +11,7 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Gatsby ITHS-starter`,
+    title: `Gatsby ITHS`,
     description: `Enkel starter template för ITHS-studenter`,
     author: `Håkan Gleissman`,
     siteUrl: `http://dummy-site.com`,
